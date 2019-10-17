@@ -2,6 +2,7 @@
 
     Description:
         This program allows you to find 3 winners from input files by searching maximum number of points
+        Only one executing parameter - path to input file
 
     Input formatting:
 
