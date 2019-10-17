@@ -1,0 +1,14 @@
+
+/Valera 1 7 8 9 6 5 9999 99999 99999 99
+/Ira 1,5,2,4,7, 300 3000  3000 ;; 40
+Ivan 1,5,6,3,2
+Olga 1,0,8,4,7
+Inga 1,5,8,4,7
+Ara 5,5,8,4,7;
+Ara 1,5,8,4,8;
+Ara 1,5,8,4,7;
+Ara 1,5,8,4,9;
+Artur_Isac 1,5,8,4,7 200
+Viorel_Bostan 10,10,10,10,10;
+
+/First two and this one will be ignored
